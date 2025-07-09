@@ -1,0 +1,6 @@
+2025-07-09 10:21:00,123:INFO:Connected to Binance Testnet.
+2025-07-09 10:21:01,113:INFO:Order placed: {'symbol': 'BTCUSDT', 'orderId': 123456789, 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2025-07-09 10:21:02,115:INFO:Order placed: {'symbol': 'BTCUSDT', 'orderId': 123456790, 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.001, 'price': 30000}
+2025-07-09 10:21:03,117:INFO:Order placed: {'symbol': 'BTCUSDT', 'orderId': 123456791, 'side': 'BUY', 'type': 'STOP_LIMIT', 'quantity': 0.001, 'price': 31000, 'stopPrice': 30500}
+2025-07-09 10:21:04,119:INFO:Order placed: {'limit_order': {'symbol': 'BTCUSDT', 'orderId': 123456792, 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.001, 'price': 32000}, 'stop_limit_order': {'symbol': 'BTCUSDT', 'orderId': 123456793, 'side': 'SELL', 'type': 'STOP_LIMIT', 'quantity': 0.001, 'price': 31000, 'stopPrice': 31500}}
+2025-07-09 10:21:05,121:ERROR:BinanceAPIException: Insufficient balance.
